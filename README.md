@@ -53,7 +53,7 @@ The repository is organized as follows:
 1. Clone the repository:
    ```bash
        git clone https://github.com/nawabkh2040/GFG_160.git
-       cd GFG-160-Days-Coding/DayX
+       cd GFG_160/Day_{X}
    ```
 2. Open and execute the .cpp files in your favorite IDE or compiler.
 
