@@ -31,16 +31,17 @@ The repository is organized as follows:
 - **GFG_160/**
   - **Day_1/**
     - `ProblemName1.cpp`
-    - `ProblemName2.cpp`
+    - `ProblemName2.exe`
     - ...
   - **Day_2/**
     - `ProblemName1.cpp`
-    - `ProblemName2.cpp`
+    - `ProblemName2.exe`
     - ...
   - **Day_3/**
     - ...
   - ...
   - `README.md`
+
 
 
 - Each day's solutions are stored in a separate folder named **DayX**.
@@ -51,7 +52,7 @@ The repository is organized as follows:
 
 1. Clone the repository:
    ```bash
-       git clone https://github.com/your-username/GFG-160-Days-Coding.git
+       git clone https://github.com/nawabkh2040/GFG_160.git
        cd GFG-160-Days-Coding/DayX
    ```
 2. Open and execute the .cpp files in your favorite IDE or compiler.
